@@ -6,4 +6,4 @@
 
 ## Resources
 * [Coffee icon from Icon Monster](https://iconmonstr.com/coffee-10-svg/)
-* [Google Font]()
+* [Oswald Google Font]()

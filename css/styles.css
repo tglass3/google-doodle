@@ -9,11 +9,9 @@
     outline: 1px dotted black;
 }
 
-
-body {
-  background: url(img/coffee.png);
-}
-
-body {
-  background: url(../img/coffee.png);
+/* Doodle Stage */
+#stage {
+  background: #ccc;
+  height: 300px;
+  width: 600px;
 }
